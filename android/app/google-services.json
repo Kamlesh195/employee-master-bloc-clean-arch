@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "654657246485",
+    "project_id": "employee-master-8fadd",
+    "storage_bucket": "employee-master-8fadd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654657246485:android:536b0c39bc4ca3213a851c",
+        "android_client_info": {
+          "package_name": "com.acme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654657246485-joduk039ggoq73097mmtdg8m3pccf82i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNnrs8LQcDMcxQHRdqmu8bss-hOAtuRRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654657246485-joduk039ggoq73097mmtdg8m3pccf82i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "654657246485-fa3pib5h6te561ks3u000itfmm9fqqnf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.acme.employeemaster"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654657246485:android:91f8bf09aab63a443a851c",
+        "android_client_info": {
+          "package_name": "com.acme.employee_master"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654657246485-joduk039ggoq73097mmtdg8m3pccf82i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNnrs8LQcDMcxQHRdqmu8bss-hOAtuRRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654657246485-joduk039ggoq73097mmtdg8m3pccf82i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "654657246485-fa3pib5h6te561ks3u000itfmm9fqqnf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.acme.employeemaster"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
